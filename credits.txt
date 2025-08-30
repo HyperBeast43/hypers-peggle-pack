@@ -13,3 +13,4 @@ backrooms - Bob Mazza, the original photographer of the image
 MENU - the ui designers of the peggle team
 scenic - Arvi Teikari
 pond - believe it or not, also Arvi Teikari
+fortune teller - https://sillypost.net/games/fortuneteller
