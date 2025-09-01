@@ -15,4 +15,4 @@ MENU - 350,000
 scenic - 300,000
 pond - 250,000
 fortune - 300,000
-knight - uhhh i havent playtested yet
+knight - 350000
